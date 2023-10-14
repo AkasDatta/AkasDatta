@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mern%20Stack%20Developer;Front%20End%20Developer;1.5%2B%Full%Stack%%Developer&center=true&width=380&height=45"></a>
+  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mern%20Stack%20Developer;Frontend%20Developer;Javascript%20Developer;Full%20Stack%20Developer&center=true&width=380&height=45"></a>
 </p>
 
 
