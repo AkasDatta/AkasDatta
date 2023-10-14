@@ -39,7 +39,7 @@
   
   <p align="center">
    <a href="https://akas-datta.netlify.app/" target="blank">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=portfolio&logoColor=white" alt="Akas Datta" />
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=vercel&logoColor=white" alt="Akas Datta" />
    </a>
    <a href="https://www.linkedin.com/in/akasdatta/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Akas Datta"/>
