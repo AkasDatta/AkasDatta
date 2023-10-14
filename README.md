@@ -112,7 +112,7 @@
   [![Summer Camp Client-Side(Harmony Academy)](https://github-readme-stats.vercel.app/api/pin/?username=AkasDatta&repo=Summer-Camp-Client-Side&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AkasDatta/Summer-Camp-Client-Side)
    [![CampusGo](https://github-readme-stats.vercel.app/api/pin/?username=AkasDatta&repo=CampusGo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AkasDatta/CampusGo)
   [![Toy Verce](https://github-readme-stats.vercel.app/api/pin/?username=AkasDatta&repo=Toy-marketplace-Client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AkasDatta/Toy-marketplace-Client)
-   [![Chef Recipe Hunter(Foodee_)](https://github-readme-stats.vercel.app/api/pin/?username=AkasDatta&repo=Chef-recipe-hunter-Client.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AkasDatta/Chef-recipe-hunter-Client)
+   [![Chef Recipe Hunter](https://github-readme-stats.vercel.app/api/pin/?username=AkasDatta&repo=Chef-recipe-hunter-Client.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AkasDatta/Chef-recipe-hunter-Client)
    
   <p align="left">
     <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
