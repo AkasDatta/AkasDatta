@@ -13,8 +13,7 @@
 <a href="https://komarev.com/ghpvc/?username=akasdatta">
     <img align="right" src="https://komarev.com/ghpvc/?username=akasdatta&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
   </a>
-  
-  [![wakatime](https://wakatime.com/@018b51e8-f359-4e62-b7d1-921f638f7db0)](https://wakatime.com/@018b51e8-f359-4e62-b7d1-921f638f7db0)
+
   [![wakatime](https://wakatime.com/badge/user/018b51e8-f359-4e62-b7d1-921f638f7db0.svg)
   
   <!-- Intro  -->
