@@ -15,6 +15,7 @@
   </a>
   
   [![wakatime](https://wakatime.com/@018b51e8-f359-4e62-b7d1-921f638f7db0)](https://wakatime.com/@018b51e8-f359-4e62-b7d1-921f638f7db0)
+  [![wakatime](https://wakatime.com/badge/user/018b51e8-f359-4e62-b7d1-921f638f7db0.svg)
   
   <!-- Intro  -->
   <h3 align="center">
