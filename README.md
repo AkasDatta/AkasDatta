@@ -140,4 +140,4 @@
   </a>
   
   
- ![Akas Datta's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkasDatta&custom_title=AkasDatta's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+ ![AkasDatta Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkasDatta&custom_title=AkasDatta's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
